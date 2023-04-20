@@ -47,7 +47,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "ྂ✈ᵇᵒᵗ𝒈𝒊𝒓𝒍✔-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ྂᴋᴀɴɢ ᴋᴏᴍᴘᴏʀ🍓⃝﷽ོ ×፝֟͜×"" //nama kalian
+global.ownername = "ᴹᴿ᭄ ྂᴋᴀɴɢ ᴋᴏᴍᴘᴏʀ🍓⃝﷽ོ ×፝֟͜×" //nama kalian
 global.myweb = "https://free-bot.rahmawati58.repl.co" //bebas asal jan hapus
 global.youtube = "https://www.instagram.com/ry.zki07/" //bebas asal jan hapus
 global.myweb2 = "https://free-bot.rahmawati58.repl.co" //bebas
